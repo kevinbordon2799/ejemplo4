@@ -1,0 +1,20 @@
+{
+  "name": "ejemplo4",
+  "version": "1.0.0",
+  "description": "Versión actual: 1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinbordon2799/ejemplo4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinbordon2799/ejemplo4/issues"
+  },
+  "homepage": "https://github.com/kevinbordon2799/ejemplo4#readme"
+}
