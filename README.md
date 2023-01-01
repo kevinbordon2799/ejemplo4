@@ -1,3 +1,3 @@
 # ejemplo4
 
-Versión actual: 1.0.2
+Versión actual: 2.0.0
